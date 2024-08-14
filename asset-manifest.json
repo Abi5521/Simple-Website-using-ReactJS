@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Simple-webpage-using-ReactJS/static/css/main.59854138.css",
-    "main.js": "/Simple-webpage-using-ReactJS/static/js/main.f642270e.js",
-    "index.html": "/Simple-webpage-using-ReactJS/index.html",
-    "main.59854138.css.map": "/Simple-webpage-using-ReactJS/static/css/main.59854138.css.map",
-    "main.f642270e.js.map": "/Simple-webpage-using-ReactJS/static/js/main.f642270e.js.map"
+    "main.css": "/Simple-Website-using-ReactJS/static/css/main.59854138.css",
+    "main.js": "/Simple-Website-using-ReactJS/static/js/main.f642270e.js",
+    "index.html": "/Simple-Website-using-ReactJS/index.html",
+    "main.59854138.css.map": "/Simple-Website-using-ReactJS/static/css/main.59854138.css.map",
+    "main.f642270e.js.map": "/Simple-Website-using-ReactJS/static/js/main.f642270e.js.map"
   },
   "entrypoints": [
     "static/css/main.59854138.css",
